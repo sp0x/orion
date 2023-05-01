@@ -17,7 +17,7 @@ pytest==3.6.2
 boto3==1.7.48
 pyowm==2.8.0
 nose
-flask==1.0
+flask==2.3.2
 setuptools
 pydevd==1.2.0
 lockfile
